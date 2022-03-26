@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DPS 924 - Assignment 3</string>
+    <string name="button_true">Vero</string>
+    <string name="button_false">Falso</string>
+    <string name="quiz_complete_title">Quiz completato!</string>
+    <string name="quiz_complete_description">I TUOI RISULTATI:</string>
+    <string name="question_01">I tuoi programmi sono tutti al sicuro dai salti mortali</string>
+    <string name="question_02">Java utilizza un sistema di parametri pass-by-value</string>
+    <string name="question_03">Un booleano è un tipo primitivo</string>
+    <string name="question_04">In Java, la parola chiave \'extends\' viene utilizzata per l\'ereditarietà</string>
+    <string name="question_05">Per le app Android, gli intenti vengono utilizzati solo per scattare foto</string>
+    <string name="question_06">Durante la programmazione, l\'utilizzo di variabili globali è considerato una cattiva pratica</string>
+    <string name="question_07">La parola chiave \'nuovo\' può essere utilizzata sui tipi primitivi in ​​Java</string>
+    <string name="question_08">Gli array in Java possono utilizzare .pop() in modo nativo</string>
+    <string name="question_09">I protocolli TCP sono più comuni di UDP</string>
+    <string name="question_10">HTTP è un protocollo sicuro</string>
+    <string name="question_11">Adobe Flash Player è un software sicuro</string>
+    <string name="question_12">C++ è un linguaggio ottimale per l\'implementazione della GUI</string>
+    <string name="question_13">La risposta a questa domanda è ovvia</string>
+    <string name="question_14">Puoi scrivere codice funzionale usando gli emoji</string>
+    <string name="question_15">GitHub è un servizio gratuito che i programmatori possono utilizzare per sincronizzare il codice</string>
+    <string name="question_16">ArrayList e Array sono intercambiabili</string>
+    <string name="quiz_save">SALVA</string>
+    <string name="quiz_complete_ignore">IGNORARE</string>
+    <string name="question_17">Javascript gestisce i problemi di ricorsione profonda in modo efficiente</string>
+    <string name="reset_results">Reimposta i risultati salvati</string>
+    <string name="set_questions">Imposta il numero di domande</string>
+    <string name="get_average">Ottieni risultati nella media</string>
+    <string name="quiz_correct">Corretto!</string>
+    <string name="quiz_incorrect">Sbagliato!</string>
+    <string name="button_okay">VA BENE</string>
+    <string name="button_cancel">ANNULLA</string>
+    <string name="oops">Opa</string>
+    <string name="quiz_update">Aggiornamento Quiz</string>
+    <string name="quiz_set_questions">Imposta un nuovo numero di domande, inferiore a</string>
+    <string name="corruption">Sembra che i tuoi dati siano danneggiati... Prova a cancellare manualmente i dati dell\'app.</string>
+    <string name="nothing_to_erase">Niente da rimuovere</string>
+    <string name="button_delete">ELIMINARE</string>
+    <string name="confirm_delete_prompt">Sei sicuro di voler reimpostare i risultati salvati?</string>
+    <string name="confirm_delete">Confermare Eliminare</string>
+    <string name="success">Successo</string>
+</resources>

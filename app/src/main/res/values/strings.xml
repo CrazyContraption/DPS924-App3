@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DPS 924 - Assignment 3</string>
+    <string name="save_key" translatable="false">APP3QUIZZES</string>
+    <string name="bundle_question" translatable="false">QUESTION</string>
+    <string name="bundle_color" translatable="false">COLOR</string>
+    <string name="button_true">True</string>
+    <string name="button_false">False</string>
+    <string name="quiz_complete_title">Quiz Completed!</string>
+    <string name="quiz_complete_description">YOUR RESULTS:</string>
+    <string name="quiz_save">SAVE</string>
+    <string name="quiz_complete_ignore">IGNORE</string>
+    <string name="quiz_correct">Correct!</string>
+    <string name="quiz_incorrect">Incorrect!</string>
+    <string name="question_01">Your programs are all safe from bit-flips</string>
+    <string name="question_02">Java uses a pass-by-value parameter system</string>
+    <string name="question_03">A boolean is a primitive type</string>
+    <string name="question_04">In Java, the keyword \'extends\' is used for inheritance</string>
+    <string name="question_05">For android apps, intents are only used to take photos</string>
+    <string name="question_06">When programming, using global variables is considered bad practice</string>
+    <string name="question_07">The \'new\' keyword can be used on primitive types in Java</string>
+    <string name="question_08">Arrays in Java can use .pop() natively</string>
+    <string name="question_09">TCP protocols are more common than UDP</string>
+    <string name="question_10">HTTP is a secure protocol</string>
+    <string name="question_11">Adobe Flash Player is secure software</string>
+    <string name="question_12">C ++ is an optimal language for GUI implementation</string>
+    <string name="question_13">The answer to this question is obvious</string>
+    <string name="question_14">You can write functional code using emojis</string>
+    <string name="question_15">GitHub is a free service that programmers can use to synchronize code</string>
+    <string name="question_16">ArrayList and Array are interchangeable</string>
+    <string name="question_17">Javascript handles deep recursion problems efficiently</string>
+    <string name="reset_results">Reset saved results</string>
+    <string name="set_questions">Set number of questions</string>
+    <string name="get_average">Get results average</string>
+    <string name="button_okay">OKAY</string>
+    <string name="button_cancel">CANCEL</string>
+    <string name="oops">Oops</string>
+    <string name="quiz_update">Quiz Update</string>
+    <string name="quiz_set_questions">Set a new number of questions, less than</string>
+    <string name="corruption">It seems your data was corrupted... Please try clearing the app\'s data manually.</string>
+    <string name="nothing_to_erase">Nothing to erase</string>
+    <string name="button_delete" >DELETE</string>
+    <string name="confirm_delete_prompt">Are you sure you want to reset your saved results?</string>
+    <string name="confirm_delete">Confirm Delete</string>
+    <string name="success">Success</string>
+</resources>
